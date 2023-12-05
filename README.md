@@ -22,11 +22,11 @@ Sociosphere is a dynamic and fully responsive social media platform, developed u
 ## Application Views
 ### Desktop View
 Experience the platform on a larger screen:  
-[Desktop View Screenshot](https://github.com/VishvShah98/sociosphere-frontend/assets/70076769/07d418df-a6be-4a95-97e9-da89b2d90c25)
+[Desktop View Video](https://github.com/VishvShah98/sociosphere-frontend/assets/70076769/07d418df-a6be-4a95-97e9-da89b2d90c25)
 
 ### Mobile View
 A streamlined interface for mobile users:  
-[Mobile View Screenshot](https://github.com/VishvShah98/sociosphere-frontend/assets/70076769/a512c11e-7470-4c59-ac2d-ce4386fcd6d8)
+[Mobile View Video](https://github.com/VishvShah98/sociosphere-frontend/assets/70076769/a512c11e-7470-4c59-ac2d-ce4386fcd6d8)
 
 ## Getting Started
 To explore Sociosphere, visit our platform and create an account. Navigate through the intuitive interface to connect with friends, share posts, and engage with the community.
